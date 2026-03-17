@@ -11,9 +11,7 @@ venv/
 # Jupyter
 .ipynb_checkpoints
 
-# Dataset
-data/raw/*
-data/processed/*
+
 
 # Models
 *.pkl
